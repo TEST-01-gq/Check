@@ -1,0 +1,292 @@
+2025-02-13 17:52:37,692
+INFO multiple_fragment_hero_hw.py 武将id和道具id一致性检查通过
+2025-02-13 17:52:37,692
+INFO multiple_fragment_hero_hw.py 武将兵种和道具兵种一致性检查通过
+2025-02-13 17:52:37,692
+INFO multiple_fragment_hero_hw.py 武将名称和碎片名称一致性检查通过
+2025-02-13 17:52:37,693
+ERROR multiple_fragment_hero_hw.py 满宠-碎片73101碎片品质对应不上分解的材料
+2025-02-13 17:52:37,693
+ERROR multiple_fragment_hero_hw.py 夏侯渊-碎片73103碎片品质对应不上分解的材料
+2025-02-13 17:52:37,693
+ERROR multiple_fragment_hero_hw.py 文聘-碎片73114碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 张春华-碎片73107碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 陈群-碎片73111碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 崔琰-碎片73119碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 臧霸-碎片73201碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 曹洪-碎片73206碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 郭淮-碎片73208碎片品质对应不上分解的材料
+2025-02-13 17:52:37,694
+ERROR multiple_fragment_hero_hw.py 蔡瑁-碎片73205碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 王朗-碎片73210碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 孔融-碎片73213碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 蒋干-碎片73214碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 许攸-碎片73215碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 曹仁-碎片73301碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 曹纯-碎片73302碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 曹休-碎片73303碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 曹真-碎片73304碎片品质对应不上分解的材料
+2025-02-13 17:52:37,695
+ERROR multiple_fragment_hero_hw.py 曹昂-碎片73305碎片品质对应不上分解的材料
+2025-02-13 17:52:37,696
+ERROR multiple_fragment_hero_hw.py 曹彰-碎片73306碎片品质对应不上分解的材料
+2025-02-13 17:52:37,696
+ERROR multiple_fragment_hero_hw.py 严颜-碎片74101碎片品质对应不上分解的材料
+2025-02-13 17:52:37,696
+ERROR multiple_fragment_hero_hw.py 廖化-碎片74112碎片品质对应不上分解的材料
+2025-02-13 17:52:37,696
+ERROR multiple_fragment_hero_hw.py 马岱-碎片74109碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 黄权-碎片74108碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 蒋琬-碎片74111碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 马谡-碎片74123碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 周仓-碎片74214碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 糜竺-碎片74216碎片品质对应不上分解的材料
+2025-02-13 17:52:37,697
+ERROR multiple_fragment_hero_hw.py 孙乾-碎片74217碎片品质对应不上分解的材料
+2025-02-13 17:52:37,698
+ERROR multiple_fragment_hero_hw.py 杨仪-碎片74219碎片品质对应不上分解的材料
+2025-02-13 17:52:37,698
+ERROR multiple_fragment_hero_hw.py 简雍-碎片74218碎片品质对应不上分解的材料
+2025-02-13 17:52:37,698
+ERROR multiple_fragment_hero_hw.py 关平-碎片74220碎片品质对应不上分解的材料
+2025-02-13 17:52:37,699
+ERROR multiple_fragment_hero_hw.py 程普-碎片75105碎片品质对应不上分解的材料
+2025-02-13 17:52:37,699
+ERROR multiple_fragment_hero_hw.py 徐盛-碎片75104碎片品质对应不上分解的材料
+2025-02-13 17:52:37,699
+ERROR multiple_fragment_hero_hw.py 黄盖-碎片75103碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 诸葛瑾-碎片75112碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 阚泽-碎片75101碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 骆统-碎片75106碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 董袭-碎片75202碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 孙桓-碎片75203碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 宋谦-碎片75208碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 陈武-碎片75210碎片品质对应不上分解的材料
+2025-02-13 17:52:37,700
+ERROR multiple_fragment_hero_hw.py 陆绩-碎片75211碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 张温-碎片75212碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 吾粲-碎片75213碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 吕范-碎片75214碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 义从-碎片80001碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 新兵-碎片80002碎片品质对应不上分解的材料
+2025-02-13 17:52:37,701
+ERROR multiple_fragment_hero_hw.py 民兵-碎片80003碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 护卫-碎片80011碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 守卫-碎片80012碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 近卫-碎片80013碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 魏国枪兵-碎片80021碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 蜀国枪兵-碎片80022碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 吴国枪兵-碎片80023碎片品质对应不上分解的材料
+2025-02-13 17:52:37,702
+ERROR multiple_fragment_hero_hw.py 魏国弓兵-碎片80024碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 蜀国弓兵-碎片80025碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 吴国弓兵-碎片80026碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 魏国骑兵-碎片80027碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 蜀国骑兵-碎片80028碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 吴国骑兵-碎片80029碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 弓兵护卫-碎片76004碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 枪兵护卫-碎片76005碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 骑兵护卫-碎片76006碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 弓兵统领-碎片76007碎片品质对应不上分解的材料
+2025-02-13 17:52:37,703
+ERROR multiple_fragment_hero_hw.py 枪兵统领-碎片76008碎片品质对应不上分解的材料
+2025-02-13 17:52:37,704
+ERROR multiple_fragment_hero_hw.py 骑兵统领-碎片76009碎片品质对应不上分解的材料
+2025-02-13 17:52:37,704
+ERROR multiple_fragment_hero_hw.py 流寇-碎片76101碎片品质对应不上分解的材料
+2025-02-13 17:52:37,704
+ERROR multiple_fragment_hero_hw.py 校尉-碎片80030碎片品质对应不上分解的材料
+2025-02-13 17:52:38,401
+ERROR single_activities_recharge_ycs.py 未发现除1和2以外的值
+2025-02-13 17:58:15,792
+INFO multiple_fragment_hero_hw.py 武将id和道具id一致性检查通过
+2025-02-13 17:58:15,792
+INFO multiple_fragment_hero_hw.py 武将兵种和道具兵种一致性检查通过
+2025-02-13 17:58:15,793
+INFO multiple_fragment_hero_hw.py 武将名称和碎片名称一致性检查通过
+2025-02-13 17:58:15,793
+ERROR multiple_fragment_hero_hw.py 满宠-碎片73101碎片品质对应不上分解的材料
+2025-02-13 17:58:15,793
+ERROR multiple_fragment_hero_hw.py 夏侯渊-碎片73103碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 文聘-碎片73114碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 张春华-碎片73107碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 陈群-碎片73111碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 崔琰-碎片73119碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 臧霸-碎片73201碎片品质对应不上分解的材料
+2025-02-13 17:58:15,794
+ERROR multiple_fragment_hero_hw.py 曹洪-碎片73206碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 郭淮-碎片73208碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 蔡瑁-碎片73205碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 王朗-碎片73210碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 孔融-碎片73213碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 蒋干-碎片73214碎片品质对应不上分解的材料
+2025-02-13 17:58:15,795
+ERROR multiple_fragment_hero_hw.py 许攸-碎片73215碎片品质对应不上分解的材料
+2025-02-13 17:58:15,796
+ERROR multiple_fragment_hero_hw.py 曹仁-碎片73301碎片品质对应不上分解的材料
+2025-02-13 17:58:15,796
+ERROR multiple_fragment_hero_hw.py 曹纯-碎片73302碎片品质对应不上分解的材料
+2025-02-13 17:58:15,796
+ERROR multiple_fragment_hero_hw.py 曹休-碎片73303碎片品质对应不上分解的材料
+2025-02-13 17:58:15,796
+ERROR multiple_fragment_hero_hw.py 曹真-碎片73304碎片品质对应不上分解的材料
+2025-02-13 17:58:15,796
+ERROR multiple_fragment_hero_hw.py 曹昂-碎片73305碎片品质对应不上分解的材料
+2025-02-13 17:58:15,797
+ERROR multiple_fragment_hero_hw.py 曹彰-碎片73306碎片品质对应不上分解的材料
+2025-02-13 17:58:15,797
+ERROR multiple_fragment_hero_hw.py 严颜-碎片74101碎片品质对应不上分解的材料
+2025-02-13 17:58:15,797
+ERROR multiple_fragment_hero_hw.py 廖化-碎片74112碎片品质对应不上分解的材料
+2025-02-13 17:58:15,797
+ERROR multiple_fragment_hero_hw.py 马岱-碎片74109碎片品质对应不上分解的材料
+2025-02-13 17:58:15,798
+ERROR multiple_fragment_hero_hw.py 黄权-碎片74108碎片品质对应不上分解的材料
+2025-02-13 17:58:15,798
+ERROR multiple_fragment_hero_hw.py 蒋琬-碎片74111碎片品质对应不上分解的材料
+2025-02-13 17:58:15,798
+ERROR multiple_fragment_hero_hw.py 马谡-碎片74123碎片品质对应不上分解的材料
+2025-02-13 17:58:15,798
+ERROR multiple_fragment_hero_hw.py 周仓-碎片74214碎片品质对应不上分解的材料
+2025-02-13 17:58:15,799
+ERROR multiple_fragment_hero_hw.py 糜竺-碎片74216碎片品质对应不上分解的材料
+2025-02-13 17:58:15,799
+ERROR multiple_fragment_hero_hw.py 孙乾-碎片74217碎片品质对应不上分解的材料
+2025-02-13 17:58:15,799
+ERROR multiple_fragment_hero_hw.py 杨仪-碎片74219碎片品质对应不上分解的材料
+2025-02-13 17:58:15,799
+ERROR multiple_fragment_hero_hw.py 简雍-碎片74218碎片品质对应不上分解的材料
+2025-02-13 17:58:15,799
+ERROR multiple_fragment_hero_hw.py 关平-碎片74220碎片品质对应不上分解的材料
+2025-02-13 17:58:15,800
+ERROR multiple_fragment_hero_hw.py 程普-碎片75105碎片品质对应不上分解的材料
+2025-02-13 17:58:15,800
+ERROR multiple_fragment_hero_hw.py 徐盛-碎片75104碎片品质对应不上分解的材料
+2025-02-13 17:58:15,800
+ERROR multiple_fragment_hero_hw.py 黄盖-碎片75103碎片品质对应不上分解的材料
+2025-02-13 17:58:15,801
+ERROR multiple_fragment_hero_hw.py 诸葛瑾-碎片75112碎片品质对应不上分解的材料
+2025-02-13 17:58:15,801
+ERROR multiple_fragment_hero_hw.py 阚泽-碎片75101碎片品质对应不上分解的材料
+2025-02-13 17:58:15,801
+ERROR multiple_fragment_hero_hw.py 骆统-碎片75106碎片品质对应不上分解的材料
+2025-02-13 17:58:15,801
+ERROR multiple_fragment_hero_hw.py 董袭-碎片75202碎片品质对应不上分解的材料
+2025-02-13 17:58:15,802
+ERROR multiple_fragment_hero_hw.py 孙桓-碎片75203碎片品质对应不上分解的材料
+2025-02-13 17:58:15,802
+ERROR multiple_fragment_hero_hw.py 宋谦-碎片75208碎片品质对应不上分解的材料
+2025-02-13 17:58:15,802
+ERROR multiple_fragment_hero_hw.py 陈武-碎片75210碎片品质对应不上分解的材料
+2025-02-13 17:58:15,802
+ERROR multiple_fragment_hero_hw.py 陆绩-碎片75211碎片品质对应不上分解的材料
+2025-02-13 17:58:15,802
+ERROR multiple_fragment_hero_hw.py 张温-碎片75212碎片品质对应不上分解的材料
+2025-02-13 17:58:15,803
+ERROR multiple_fragment_hero_hw.py 吾粲-碎片75213碎片品质对应不上分解的材料
+2025-02-13 17:58:15,803
+ERROR multiple_fragment_hero_hw.py 吕范-碎片75214碎片品质对应不上分解的材料
+2025-02-13 17:58:15,803
+ERROR multiple_fragment_hero_hw.py 义从-碎片80001碎片品质对应不上分解的材料
+2025-02-13 17:58:15,803
+ERROR multiple_fragment_hero_hw.py 新兵-碎片80002碎片品质对应不上分解的材料
+2025-02-13 17:58:15,803
+ERROR multiple_fragment_hero_hw.py 民兵-碎片80003碎片品质对应不上分解的材料
+2025-02-13 17:58:15,804
+ERROR multiple_fragment_hero_hw.py 护卫-碎片80011碎片品质对应不上分解的材料
+2025-02-13 17:58:15,804
+ERROR multiple_fragment_hero_hw.py 守卫-碎片80012碎片品质对应不上分解的材料
+2025-02-13 17:58:15,804
+ERROR multiple_fragment_hero_hw.py 近卫-碎片80013碎片品质对应不上分解的材料
+2025-02-13 17:58:15,804
+ERROR multiple_fragment_hero_hw.py 魏国枪兵-碎片80021碎片品质对应不上分解的材料
+2025-02-13 17:58:15,804
+ERROR multiple_fragment_hero_hw.py 蜀国枪兵-碎片80022碎片品质对应不上分解的材料
+2025-02-13 17:58:15,805
+ERROR multiple_fragment_hero_hw.py 吴国枪兵-碎片80023碎片品质对应不上分解的材料
+2025-02-13 17:58:15,805
+ERROR multiple_fragment_hero_hw.py 魏国弓兵-碎片80024碎片品质对应不上分解的材料
+2025-02-13 17:58:15,805
+ERROR multiple_fragment_hero_hw.py 蜀国弓兵-碎片80025碎片品质对应不上分解的材料
+2025-02-13 17:58:15,805
+ERROR multiple_fragment_hero_hw.py 吴国弓兵-碎片80026碎片品质对应不上分解的材料
+2025-02-13 17:58:15,805
+ERROR multiple_fragment_hero_hw.py 魏国骑兵-碎片80027碎片品质对应不上分解的材料
+2025-02-13 17:58:15,806
+ERROR multiple_fragment_hero_hw.py 蜀国骑兵-碎片80028碎片品质对应不上分解的材料
+2025-02-13 17:58:15,806
+ERROR multiple_fragment_hero_hw.py 吴国骑兵-碎片80029碎片品质对应不上分解的材料
+2025-02-13 17:58:15,806
+ERROR multiple_fragment_hero_hw.py 弓兵护卫-碎片76004碎片品质对应不上分解的材料
+2025-02-13 17:58:15,806
+ERROR multiple_fragment_hero_hw.py 枪兵护卫-碎片76005碎片品质对应不上分解的材料
+2025-02-13 17:58:15,807
+ERROR multiple_fragment_hero_hw.py 骑兵护卫-碎片76006碎片品质对应不上分解的材料
+2025-02-13 17:58:15,807
+ERROR multiple_fragment_hero_hw.py 弓兵统领-碎片76007碎片品质对应不上分解的材料
+2025-02-13 17:58:15,807
+ERROR multiple_fragment_hero_hw.py 枪兵统领-碎片76008碎片品质对应不上分解的材料
+2025-02-13 17:58:15,807
+ERROR multiple_fragment_hero_hw.py 骑兵统领-碎片76009碎片品质对应不上分解的材料
+2025-02-13 17:58:15,807
+ERROR multiple_fragment_hero_hw.py 流寇-碎片76101碎片品质对应不上分解的材料
+2025-02-13 17:58:15,808
+ERROR multiple_fragment_hero_hw.py 校尉-碎片80030碎片品质对应不上分解的材料
+2025-02-13 17:58:21,400
+ERROR single_activities_recharge_ycs.py 未发现除1和2以外的值
